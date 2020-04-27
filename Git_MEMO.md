@@ -8,3 +8,4 @@
 - git diff　差分を確認
 - git restore ファイルをステージングエリアの状態に戻す
 - git reset HEAD file name　ステージングエリアの登録を取り消す(ファイルの内容はそのまま)
+- git rm　コミットしたファイルを削除。この後に、削除しとことをcommitする
