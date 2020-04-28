@@ -2,3 +2,16 @@
 
 Git scm pro git 日本語ページ
 https://git-scm.com/book/ja/v2
+
+- git help
+- git add .
+- git commit -m "コメント"
+- git commit --amend　 直前のコミットを変更する
+- git status
+- git push
+
+- git diff　addする前に差分を見るとき
+- git diff --cached　addした後に差分を見るとき
+
+- git rm filename　ファイルを削除する
+- git mv filename　ファイルを移動する
