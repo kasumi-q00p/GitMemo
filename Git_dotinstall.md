@@ -15,3 +15,7 @@ https://git-scm.com/book/ja/v2
 
 - git rm filename　ファイルを削除する
 - git mv filename　ファイルを移動する
+- git add
+- git commit 
+- git status
+- git push
