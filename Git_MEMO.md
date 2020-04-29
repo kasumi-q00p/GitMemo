@@ -18,3 +18,7 @@
 - git branch name　ブランチを作製
 - git branch　使用中のブランチを確認　＊が今のブランチ
 - git checkout name　ブランチをチェックアウトする
+-git commit -am"コメント"　更新されたファイルをステージングエリアに追加して、そのままコミットする
+- commit , push origin filename, プルリクエスト作成、レビュー、マージ
+
+追加する
